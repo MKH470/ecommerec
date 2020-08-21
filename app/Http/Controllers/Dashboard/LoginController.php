@@ -12,11 +12,8 @@ class LoginController extends Controller
         return view('dashboard.auth.login');
     }
     public function postLogin(AdminLoginRequest $request){
-        $remember_me =$request->has('remember_me')?true:false;
-        if(auth()->guard('admin')
-                 ->attempt(['email'=>$request->input("email"),
-                           'password'=>$request->input("password")
-                           ],$remember_me)){
+        $remember_me =$request->has('remember_me') ? true : false;
+        if(auth()->guard('admin')->attempt(['email'=>$request->input("email"),'password'=>$request->input("password")],$remember_me)){
             return redirect()->route('admin.dashboard');
     }
          return redirect()->back()->with(['error'=>'هناك خطأ بالبيانات المدخلة ']);
