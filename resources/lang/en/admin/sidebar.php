@@ -98,5 +98,7 @@ return [
     "Status"=>"Status",
      "cost"=>"cost",
     "Go back"=>"Go back",
-    "Modify a delivery method"=>"Modify a delivery method"
+    "Modify a delivery method"=>"Modify a delivery method",
+    "update successfully"=>"update successfully",
+    "An error occurred during modification"=>"An error occurred during modification",
 ];

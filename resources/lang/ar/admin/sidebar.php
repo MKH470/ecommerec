@@ -99,5 +99,7 @@
    "Status"=>"الحالة",
      "cost"=>"تكلفة التوصيل",
      "Go back"=>"تراجع",
-     "Modify a delivery method"=>"تعديل  وسيلة توصيل"
+     "Modify a delivery method"=>"تعديل  وسيلة توصيل",
+     "update successfully"=>"تم التعديل بنجاح",
+     "An error occurred during modification"=>"حدث خطأ أثناء التعديل ",
  ];

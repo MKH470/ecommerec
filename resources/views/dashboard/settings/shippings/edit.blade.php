@@ -53,7 +53,7 @@
                                                     <div class="col-md-6">
                                                         <div class="form-group">
                                                             <label for="projectinput1"> {{__('admin/sidebar.Name')}} </label>
-                                                            <input type="text" value="{{$shippingMethod -> value  }}" id="name"
+                                                            <input type="text" value="{{$shippingMethod -> value  }}" id="value"
                                                                    class="form-control"
                                                                    placeholder="  "
                                                                    name="value">
