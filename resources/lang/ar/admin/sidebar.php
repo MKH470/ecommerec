@@ -95,5 +95,9 @@
   "We won't ask for your password again for a few hours."=> "لن نطلب كلمة المرور مرة أخرى لبضع ساعات.",
   "You are receiving this email because we received a password reset request for your account."=> "لقد استلمت هذا الإيميل لأننا استقبلنا طلباً لاستعادة كلمة مرور حسابك.",
   "Your email address is not verified."=> "بريدك الإلكتروني غير موثّق.",
-  "Whoops!"=> "عذراً!"
+  "Whoops!"=> "عذراً!",
+   "Status"=>"الحالة",
+     "cost"=>"تكلفة التوصيل",
+     "Go back"=>"تراجع",
+     "Modify a delivery method"=>"تعديل  وسيلة توصيل"
  ];

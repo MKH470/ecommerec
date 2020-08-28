@@ -94,6 +94,9 @@ return [
     "We won't ask for your password again for a few hours."=> "We won't ask for your password again for a few hours.",
     "You are receiving this email because we received a password reset request for your account."=> "You are receiving this email because we received a password reset request for your account.",
     "Your email address is not verified."=> "Your email address is not verified.",
-    "Whoops!"=> "Whoops!"
-
+    "Whoops!"=> "Whoops!",
+    "Status"=>"Status",
+     "cost"=>"cost",
+    "Go back"=>"Go back",
+    "Modify a delivery method"=>"Modify a delivery method"
 ];
