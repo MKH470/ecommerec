@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ee41be-4ef5-42bb-ace9-21dfe5d935ef" name="Default Changelist" comment="" />
+    <list default="true" id="76ee41be-4ef5-42bb-ace9-21dfe5d935ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Dashboard/SettingsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Dashboard/SettingsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Requests/ShippingsRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Requests/ShippingsRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/ar/admin/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/ar/admin/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/lang/en/admin/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/admin/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboard/settings/shippings/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboard/settings/shippings/edit.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -16,6 +41,16 @@
       <list>
         <option value="composer.json" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/MKH470/ecommerec" />
+      </set>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -121,6 +156,9 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/astrotomic/laravel-translatable" />
+      <path value="$PROJECT_DIR$/vendor/mcamara/laravel-localization" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gBEclGrMHhWwFAZSh0ZqfUusIi" />
@@ -131,7 +169,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/lang/en" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommerec\app\Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommerec\resources\lang\en" />
+      <recent name="C:\xampp\htdocs\ecommerec\resources\lang" />
+      <recent name="C:\xampp\htdocs\ecommerec\resources\views\dashboard\includes\alerts" />
+      <recent name="C:\xampp\htdocs\ecommerec\resources\views\layouts" />
+      <recent name="C:\xampp\htdocs\ecommerec\resources\views\site" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -147,11 +205,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597579667377</updated>
-      <workItem from="1597579668548" duration="417000" />
+      <workItem from="1597579668548" duration="8453000" />
+      <workItem from="1597671308181" duration="70000" />
+      <workItem from="1597739235135" duration="2985000" />
+      <workItem from="1597744766676" duration="7602000" />
+      <workItem from="1597835789968" duration="16259000" />
+      <workItem from="1597999341355" duration="16019000" />
+      <workItem from="1598106554343" duration="1687000" />
+      <workItem from="1598123293233" duration="2297000" />
+      <workItem from="1598131559320" duration="421000" />
+      <workItem from="1598132089649" duration="2327000" />
+      <workItem from="1598144421455" duration="404000" />
+      <workItem from="1598179436100" duration="6991000" />
+      <workItem from="1598267931583" duration="1550000" />
+      <workItem from="1598519774049" duration="29480000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1936" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597859333145">
+      <screen x="1366" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1936" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768/1366.0.1680.1050@1366.0.1680.1050" timestamp="1597859333145" />
+    <state x="1986" y="256" key="FileChooserDialogImpl" timestamp="1598283132469">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1986" y="256" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1598283132469" />
+    <state x="1986" y="266" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1680.1050@1366.0.1680.1050" timestamp="1597836403802" />
+    <state x="1707" y="149" key="SettingsEditor" timestamp="1598185992777">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1707" y="149" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1598185992777" />
   </component>
 </project>
